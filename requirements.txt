@@ -1,0 +1,2 @@
+pyrogram
+git+https://github.com/LEGEND-AI/pyLegendSB
